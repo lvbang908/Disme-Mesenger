@@ -8,7 +8,7 @@
 
 ### Version
 
-- @1.1.0
+- @1.1.1
 
 ### Yêu cầu
 
@@ -19,12 +19,12 @@
 
 - Giảm dung lượng file bot
 - Hạn chế bị block tính năng
-- Có thể chạy 24/7 (yêu cầu VPS & acc không checkpoints)
+- ~~Có thể chạy 24/7 (yêu cầu VPS & acc không checkpoints)~~
 - Check các lỗi có trong file
 - Check API die trong file
 - Tải file lên bot bằng link google drive (tiện ích cho điện thoại không kéo được file)
 - Download video Tiktok, Youtube không cần KEY API.
-- Có thể đăng nhập bằng appState hoặc tài khoản và mật khẩu;
+- Có thể đăng nhập bằng appState hoặc ~~tài khoản và mật khẩu~~;   
 - Encode appState, tự động đăng nhập khi gặp vấn đề về login (trừ trường hợp checkpoints);
 - Các graph facebook được sử dụng nhiều hơn do có thể lấy accessToken của account bot
 
