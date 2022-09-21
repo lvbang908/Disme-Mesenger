@@ -1,6 +1,6 @@
 const { writeFileSync, createReadStream } = require('fs');
 module.exports.config = {
-    name: "tiktok",
+    name: "tiktok2",
     version: "1.0.0",
     hasPermssion: 0,
     credits: "D-Jukie",
